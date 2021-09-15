@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Mấy giờ rồi</h1>
+
+<button type="button"
+    onclick="document.getElementById('demo').innerHTML = Date()">
+    Ngu thì ấn vào đây.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
